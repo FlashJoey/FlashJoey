@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1421242636@qq.com
+- 📫 How to reach me asiluffy1001@gmail.com
 
 <!---
 FlashJoey/FlashJoey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
